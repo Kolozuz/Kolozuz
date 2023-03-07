@@ -2,7 +2,9 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Kolozuz?style=social)](https://github.com/Kolozuz)
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCo-6v7hdUVvSdYSSnRWw03A?style=social)](https://www.youtube.com/channel/UCo-6v7hdUVvSdYSSnRWw03A)
+[![Twitch Status](https://img.shields.io/twitch/status/krdinalgaming?color=black&style=social)]()
+
+[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCo-6v7hdUVvSdYSSnRWw03A?label=Youtube&style=social)](https://www.youtube.com/channel/UCo-6v7hdUVvSdYSSnRWw03A)
 
 <!--
 **Kolozuz/Kolozuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
