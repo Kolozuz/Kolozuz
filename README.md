@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Kolozuz?style=social&label=Followers)](https://github.com/Kolozuz)
 
-[![Twitch Status](https://img.shields.io/twitch/status/krdinalgaming?color=black&style=social)](https://twitch.tv/krdinalgaming)
+[![Twitch Status](https://img.shields.io/twitch/status/krdinalgaming?color=redk&style=social)](https://twitch.tv/krdinalgaming)
 
 [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCo-6v7hdUVvSdYSSnRWw03A?label=Youtube&style=social)](https://www.youtube.com/channel/UCo-6v7hdUVvSdYSSnRWw03A)
 
