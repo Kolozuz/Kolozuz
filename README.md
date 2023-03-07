@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub followers](https://img.shields.io/github/followers/Kolozuz?style=social)
+[![GitHub followers](https://img.shields.io/github/followers/Kolozuz?style=social)](https://github.com/Kolozuz)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCo-6v7hdUVvSdYSSnRWw03A?style=social)](https://www.youtube.com/channel/UCo-6v7hdUVvSdYSSnRWw03A)
 
