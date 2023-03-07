@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Kolozuz?style=social)
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCo-6v7hdUVvSdYSSnRWw03A?style=social)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCo-6v7hdUVvSdYSSnRWw03A?style=social)](https://www.youtube.com/channel/UCo-6v7hdUVvSdYSSnRWw03A)
 
 <!--
 **Kolozuz/Kolozuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
