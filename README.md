@@ -1,16 +1,15 @@
 
-### ℹ️ &nbsp;About Me
+### :information_source: About Me
 
 18yo Colombian 🇨🇴 Developer, trynna improve every day, here'some links to know more about me:
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/juan-pablo-morales-cruz-453983235/"><img src="https://img.shields.io/badge/-Juan%20Pablo%20Morales-0a66c2?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="https://www.youtube.com/channel/UCo-6v7hdUVvSdYSSnRWw03A"><img src="https://img.shields.io/badge/-Juan%20Pablo%20Morales-e74c3c?style=flat&logo=youtube&logoColor=white"/></a>
   <a href="https://www.twitch.tv/krdinalgaming"><img src="https://img.shields.io/badge/-Juan%20Pablo%20Morales-9146ff?style=flat&logo=twitch&logoColor=white"/></a>
 </p>
 
-
-### 🛠 &nbsp;Tech Stack
+### 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -24,9 +23,9 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+### :chart_with_upwards_trend: GitHub Analytics
 
-<p align="center">
+<p>
   <a href="https://github.com/AVS1508">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kolozuz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kolozuz&layout=compact&theme=dracula"/>
