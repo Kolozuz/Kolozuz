@@ -30,7 +30,7 @@ Colombian 🇨🇴 Developer, trynna improve every day, here'some links to know 
 
 <p>
   <a href="https://github.com/Kolozuz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kolozuz&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_borders"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kolozuz&layout=compact&theme=dracula"/>
+    <img height="225em" src="https://github-readme-stats-jade-nine-60.vercel.app/api?username=Kolozuz&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage"/>
+    <img src="https://github-readme-stats-jade-nine-60.vercel.app/api/top-langs/?username=Kolozuz&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=10"/>
   </a>
 </p>
