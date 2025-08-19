@@ -1,7 +1,7 @@
 
 ### :information_source: About Me
 
-Colombian 🇨🇴 Developer, trynna improve every day, here'some links to know more about me:
+Colombian 🇨🇴 Developer, trynna improve every day, here are some links to know more about me:
 
 <p>
   <a href="https://www.linkedin.com/in/juan-pablo-morales-cruz-453983235/"><img src="https://img.shields.io/badge/-Juan%20Pablo%20Morales-0a66c2?style=flat&logo=Linkedin&logoColor=white"/></a>
